@@ -48,4 +48,4 @@ then
     echo "Default resource group set to $GROUP"
 else
     echo "Workflows are using the new subscription."
-fi
+
